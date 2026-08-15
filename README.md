@@ -1,27 +1,15 @@
-### Kashish Gupta — Computer Science Engineer (AI/ML)
+# 💫 About Me:
+**Kashish Gupta**<br><br>AI/ML Engineer | Backend Developer | Python, FastAPI, Gen AI<br><br>**Currently working on:** AI Family Copilot — a FastAPI + PostgreSQL backend with OCR-based document tracking and Gemini-powered agentic tool-calling<br><br>**Looking to collaborate on:** RAG pipelines, LLM-based applications, and backend systems using FastAPI<br><br>**Looking for help with:** Agentic AI systems and tool-calling architectures (intent detection + function calling)<br><br>**Currently learning:** Gen AI agentic workflows and advanced RAG techniques<br><br>**Ask me about:** RAG pipelines, computer vision (YOLO-based detection), ML model deployment<br><br>   I build and ship end-to-end ML systems — not just notebooks, actual deployed products with APIs and live demos.<br><br>   Stack: Python · PyTorch · Scikit-learn · LangChain · FastAPI · Docker · ChromaDB · OpenCV<br><br>**Projects**<br><br>**Ask My Docs** — Hybrid RAG pipeline Dense retrieval (ChromaDB) + BM25 sparse retrieval + CrossEncoder reranking, served via FastAPI, powered by Groq Llama 3.3-70b. <br><br>[Live Demo](https://kashi-77-ask-my-docs.hf.space/) <br><br>  **ANPR System** — Automatic Number Plate Recognition YOLOv8n trained to 0.96 mAP50, EasyOCR text extraction, custom post-processing for Indian plate formats. <br><br>[Live Demo](https://anpr-system-csf7npck4rjfg3ebduiwng.streamlit.app/)<br><br>**Student Performance Predictor** — ML regression pipeline 9 regression models benchmarked, Ridge Regression best at R²=0.88, full EDA and deployment pipeline.<br><br>Demo](https://student-performance-prediction-jckgbdv53yhtyjf9ksxhqe.streamlit.app/) 
 
-Final-year B.Tech CSE (AI/ML) student. I build and ship end-to-end ML systems — not just notebooks, actual deployed products with APIs and live demos.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kashish-gupta-66ab1832b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gptkashish973@gmail.com) 
 
-**Stack:** Python · PyTorch · Scikit-learn · LangChain · FastAPI · Docker · ChromaDB · OpenCV
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Kashish-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Kashish-33&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kashish-33&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### Projects
-
-**[Ask My Docs](https://github.com/Kashish-33/ask-my-docs)** — Hybrid RAG pipeline
-Dense retrieval (ChromaDB) + BM25 sparse retrieval + CrossEncoder reranking, served via FastAPI, powered by Groq Llama 3.3-70b.
-[Live Demo](https://kashi-77-ask-my-docs.hf.space/)
-
-**[ANPR System](https://github.com/Kashish-33/anpr-system)** — Automatic Number Plate Recognition
-YOLOv8n trained to 0.96 mAP50, EasyOCR text extraction, custom post-processing for Indian plate formats.
-[Live Demo](https://anpr-system-csf7npck4rjfg3ebduiwng.streamlit.app/)
-
-**[Student Performance Predictor](https://github.com/Kashish-33/Student-performance-prediction)** — ML regression pipeline
-9 regression models benchmarked, Ridge Regression best at R²=0.88, full EDA and deployment pipeline.
-[Live Demo](https://student-performance-prediction-jckgbdv53yhtyjf9ksxhqe.streamlit.app/)
-
----
-
-**Contact:** [LinkedIn](https://linkedin.com/in/kashish-gupta-66ab1832b) · [gptkashish973@gmail.com]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
