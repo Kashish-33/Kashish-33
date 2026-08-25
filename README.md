@@ -3,9 +3,9 @@
 
 I build and ship full-stack AI systems — from self-correcting RAG pipelines to full-stack applications with automated backend workflows and computer vision.
 
-Recently built: FamilyMate — a full-stack AI family-management platform (FastAPI + PostgreSQL + React) with automated expiry tracking, a complete notification lifecycle, and Gemini-powered assistant Q&A. Deployment in progress.
+Recently built: **FamilyMate** — a full-stack AI family-management platform (FastAPI + PostgreSQL + React) with automated expiry tracking, a complete notification lifecycle, and Gemini-powered assistant Q&A. Deployment in progress.
 
-Also built: Ask My Docs — a self-correcting RAG pipeline with automated grounding verification (deployed), and an ANPR system using YOLOv8 + EasyOCR (deployed).
+Also built: **Ask My Docs** — a self-correcting RAG pipeline with automated grounding verification (deployed), and an ANPR system using YOLOv8 + EasyOCR (deployed).
 
 Looking to collaborate on: RAG pipelines, LLM-based applications, and full-stack backend systems using FastAPI
 
