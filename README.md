@@ -1,5 +1,17 @@
 # 💫 About Me:
-**Kashish Gupta**<br><br>**AI/ML Engineer | Backend Developer | Python, FastAPI, Gen AI**<br><br>**Currently working on:** AI Family Copilot — a FastAPI + PostgreSQL backend with OCR-based document tracking and Gemini-powered agentic tool-calling<br><br>**Looking to collaborate on:** RAG pipelines, LLM-based applications, and backend systems using FastAPI<br><br>**Looking for help with:** Agentic AI systems and tool-calling architectures (intent detection + function calling)<br><br>**Currently learning:** Gen AI agentic workflows and advanced RAG techniques<br><br>**Ask me about:** RAG pipelines, computer vision (YOLO-based detection), ML model deployment<br><br>   I build and ship end-to-end ML systems — not just notebooks, actual deployed products with APIs and live demos.<br><br>   Stack: Python · PyTorch · Scikit-learn · LangChain · FastAPI · Docker · ChromaDB · OpenCV.
+**Kashish Gupta**<br><br>**AI/ML Engineer | Backend Developer | Python, FastAPI, Gen AI**<br><br>
+
+I build and ship full-stack AI systems — from self-correcting RAG pipelines to full-stack applications with automated backend workflows and computer vision.
+
+Recently built: FamilyMate — a full-stack AI family-management platform (FastAPI + PostgreSQL + React) with automated expiry tracking, a complete notification lifecycle, and Gemini-powered assistant Q&A. Deployment in progress.
+
+Also built: Ask My Docs — a self-correcting RAG pipeline with automated grounding verification (deployed), and an ANPR system using YOLOv8 + EasyOCR (deployed).
+
+Looking to collaborate on: RAG pipelines, LLM-based applications, and full-stack backend systems using FastAPI
+
+Currently learning: Gen AI agentic workflows and advanced RAG techniques
+
+Stack: Python · PyTorch · Scikit-learn · LangChain · FastAPI · PostgreSQL · React · Docker · ChromaDB · OpenCV
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/kashish-gupta-66ab1832b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gptkashish973@gmail.com) 
 
